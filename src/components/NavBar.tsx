@@ -12,7 +12,7 @@ export const NavBar = () => {
       <Flex w={'100%'}>
 
         <Spacer></Spacer>
-        <Link href='https://twitter.com/fedef_dev' isExternal>
+        <Link href='https://twitter.com/fedeloters' isExternal>
           <Tooltip label='Follow me on twitter' placement='auto'>
             <IconButton icon={<FaTwitter />} isRound={true} aria-label='FaTwitter'></IconButton>
           </Tooltip>
